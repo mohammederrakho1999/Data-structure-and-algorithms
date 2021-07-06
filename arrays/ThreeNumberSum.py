@@ -40,5 +40,5 @@ def ThreeNumberSum1(Array, TargetNumber):
 	
 	return all_triplet
 
-all_triplet = ThreeNumberSum1([1,2,3,1,2,-6,5,-8,6],0)
-print(all_triplet)
+#all_triplet = ThreeNumberSum1([1,2,3,1,2,-6,5,-8,6],0)
+#print(all_triplet)
