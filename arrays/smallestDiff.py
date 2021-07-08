@@ -55,8 +55,8 @@ def SmallestDifference1(array1, array2):
 
 
 
-x = SmallestDifference1([-1,5,10,20,28,3],[26,134,135,15,17])
-print(x)
+#x = SmallestDifference1([-1,5,10,20,28,3],[26,134,135,15,17])
+#print(x)
 
 
 
